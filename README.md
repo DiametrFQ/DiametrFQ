@@ -1,18 +1,13 @@
 <head>
-  <style type="text/css">
-    .body{
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-    }
-  </style>
+  <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <div class="body">
     <div class="me">
       ## Hi there 👋
-      ### I'm FullStack developer
-      ### Frontend: TS, NextJS/React, Redux, 
-      ### Backebd: TS, Express/NestJS, PostgreSQL
+      ### I'm FullStack developer           <br>
+      ### Frontend: TS, NextJS/React, Redux,  <br>
+      ### Backebd: TS, Express/NestJS, PostgreSQL <br>
     </div>
     <div class="stat">
       🔥 &nbsp; My Stats :<br>
