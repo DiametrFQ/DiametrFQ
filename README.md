@@ -23,4 +23,5 @@
 
 📫 How to reach me:<br>
 <a href="https://t.me/diametrfq"><img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"/></a>
+<a href="mailto:hohlov.03@inbox.ru"><img width="60px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png"/></a>
 Mail?: hohlov.03@inbox.ru
