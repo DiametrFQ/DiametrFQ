@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## I'm FullStack developer
-# Frontend: TS, React, Redux, 
+# Frontend: TS, NextJS/React, Redux, 
 # Backebd: TS, Express/NestJS, PostgreSQL
 <!--
 Here are some ideas to get you started:
@@ -18,3 +18,7 @@ Here are some ideas to get you started:
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=DiametrFQ&theme=github-dark-blue&border_radius=6&card_width=300&type=png)]<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiametrFQ\&layout=donut-vertical)]
+
+📫 How to reach me:
+Telegram: @diametrfq
+Mail?: hohlov.03@inbox.ru
