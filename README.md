@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiametrFQ\&layout=donut-vertical)]
 
 📫 How to reach me:
-Telegram: @diametrfq
+Telegram: @diametrfq<br>
 Mail?: hohlov.03@inbox.ru
