@@ -14,9 +14,6 @@
     </table>
     <div>
       <h3>Hi there 👋 </h3>
-      I'm FullStack developer who use TypeScript <br><br>
-      Frontend: TS, NextJS/React, Redux <br><br>
-      Backebd: TS, Express/NestJS, PostgreSQL <br><br>
     </div>
     <div>
       <details>
@@ -30,9 +27,11 @@
     <div>
       <br>
       📫 How to reach me:<br>
-      <a href="https://t.me/diametrfq" target="blank"><img width="60px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"/></a>
-      <a href="mailto:hohlov.03@inbox.ru" target="blank"><img width="60px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png"/></a>
-      <a href="https://linkedin.com/in/diametrfq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/></a>
+      <div>
+        <a href="https://t.me/diametrfq" target="blank"><img height="60px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"/></a>
+        <a href="https://linkedin.com/in/diametrfq" target="blank"><img height="60px" align="center" src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-net2o24e.png"/></a>
+        <a href="mailto:hohlov.03@inbox.ru" target="blank"><img height="60px" align="center"src="https://freeiconshop.com/wp-content/uploads/edd/email-flat.png"/></a>
+      </div>
     </div>
   </body>
 </html>
