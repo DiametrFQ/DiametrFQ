@@ -39,6 +39,18 @@
         <p align="left"> 
           <a href="https://www.typescriptlang.org" target="blank">
             <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="40"/>
+          </a>
+          <a href="https://www.rust-lang.org/" target="blank">
+            <img src="https://static-00.iconduck.com/assets.00/rust-icon-2048x2048-x341msji.png" alt="TypeScript" width="40"/>
+          </a> 
+          <a href="https://kotlinlang.org/" target="blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1200px-Kotlin_Icon.svg.png" alt="TypeScript" width="40"/>
+          </a> 
+          <a href="https://react.dev/" target="blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="TypeScript" width="40"/>
+          </a> 
+          <a href="https://nestjs.com" target="blank">
+            <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-2048x2040-3rrvcej8.png" alt="TypeScript" width="40"/>
           </a> 
         </p>
       </details>
