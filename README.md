@@ -25,12 +25,12 @@
           and <a href="https://tauri.app" target="blank">Tauri</a> respectively.
       </h4> 
       <h4>
-          At the moment I am working on the FullHouse project, which is big for me, to <br/>
+          At the moment I am working on the FullHouse project, which is big for me, to
           build a messenger using <a href="https://nestjs.com" target="blank">NestJS</a>+PostgreSQL,
-          React and Kotlin, which will use <br/>
-          the best practices of popular messengers, features - the user will be able to <br/>
-          understand at what time his interlocutor was in the general chat and whether <br/>
-          he is currently viewing it, I’m also thinking about extensive <br/>
+          React and Kotlin, which will use
+          the best practices of popular messengers, features - the user will be able to
+          understand at what time his interlocutor was in the general chat and whether
+          he is currently viewing it, I’m also thinking about extensive
           customization of my profile <br/>
       </h4>
     </div>
