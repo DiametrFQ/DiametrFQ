@@ -2,7 +2,7 @@
 <html>
   <body>
     <div  padding="32px" margin="32px">
-    <table border="20" align="right">
+    <table  bordercolor="red" border="7px" align="right">
       <tr>
         <th>      
           <div>
