@@ -45,6 +45,15 @@
         </p>
       </details>
     </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
     <div>
       📫 Connect with me:<br/>
       <div>
