@@ -15,8 +15,7 @@
     <div>
       <h3>Hi there 👋 </h3>
       <h4>
-          I have 3+ years of full-cycle development experience, from building databases <br/>
-          to CI/CD.
+          I have 3+ years of full-cycle development experience, from building databases to CI/CD.
       </h4> 
       <h4>
           I created website, mobile and desktop using <a href="https://nextjs.org/" target="blank">NextJS</a>, 
