@@ -2,7 +2,7 @@
 <html>
   <body>
     <div  padding="32px" margin="32px">
-    <table  bordercolor="red" border="7px" align="right">
+    <table  border="5px" align="right">
       <tr>
         <th>      
           <div>
@@ -23,13 +23,8 @@
           and <a href="https://tauri.app" target="blank">Tauri</a> respectively.
       </h4> 
       <h4>
-          At the moment I am working on the FullHouse project, which is big for me, to
-          build a messenger using <a href="https://nestjs.com" target="blank">NestJS</a>+PostgreSQL,
-          React and Kotlin, which will use
-          the best practices of popular messengers, features - the user will be able to
-          understand at what time his interlocutor was in the general chat and whether
-          he is currently viewing it, I’m also thinking about extensive
-          customization of my profile <br/>
+          I develop applications with complex functionality or interaction between the server and client parts. <br/>
+          I work on web applications using unique technologies such as <a href="https://threejs.org/" target="blank">ThreeJS</a>. <br/>
       </h4>
     </div>
     <div>
@@ -40,17 +35,47 @@
           <a href="https://www.typescriptlang.org" target="blank">
             <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="TypeScript" width="40"/>
           </a>
+          <a href="https://ru.wikipedia.org/wiki/JavaScript" target="blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/80px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="40"/>
+          </a> 
+          <br/><h3>Frontend:<h3>
+          <a href="https://react.dev/" target="blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="40"/>
+          </a>
+          <a href="https://redux.js.org/" target="blank">
+            <img src="https://redux.js.org/img/redux.svg" alt="Redux" width="40"/>
+          </a>
+          <a href="https://reactrouter.com/" target="blank">
+            <img src="https://www.svgrepo.com/show/354262/react-router.svg" alt="reactrouter" width="40"/>
+          </a>
+          <a href="https://rxjs.dev/" target="blank">
+            <img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" alt="RxJS" width="40"/>
+          </a>
+          <a href="https://threejs.org/" target="blank">
+            <img src="https://discourse.threejs.org/uploads/short-url/wFz74OtVJKHmXCI5F9qCe4VM1Gh.png?dl=1" alt="threejs" width="40"/>
+          </a>
+          <br/><h3>Backend:<h3>
+          <a href="https://nestjs.com" target="blank">
+            <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-2048x2040-3rrvcej8.png" alt="NestJS" width="40"/>
+          </a>
+          <a href="https://typeorm.io/" target="blank">
+            <img src="https://seeklogo.com/images/T/typeorm-logo-F243B34DEE-seeklogo.com.png" alt="TypeORM" width="40"/>
+          </a> 
+          <a href="https://expressjs.com/ru/" target="blank">
+            <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="Express" width="40"/>
+          </a>
+          <a href="https://sequelize.org/" target="blank">
+            <img src="https://sequelize.org/img/logo.svg" alt="sequelize" width="40" height="40"/>
+          </a> 
+          <a href="https://socket.io/" target="blank">
+            <img src="https://socket.io/images/logo-dark.svg" alt="socketIO" width="40" height="40"/>
+          </a> 
+          <br/><br/><h3>Other:<h3>
           <a href="https://www.rust-lang.org/" target="blank">
-            <img src="https://static-00.iconduck.com/assets.00/rust-icon-2048x2048-x341msji.png" alt="TypeScript" width="40"/>
+            <img src="https://static-00.iconduck.com/assets.00/rust-icon-2048x2048-x341msji.png" alt="Rust" width="40"/>
           </a> 
           <a href="https://kotlinlang.org/" target="blank">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1200px-Kotlin_Icon.svg.png" alt="TypeScript" width="40"/>
-          </a> 
-          <a href="https://react.dev/" target="blank">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="TypeScript" width="40"/>
-          </a> 
-          <a href="https://nestjs.com" target="blank">
-            <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-2048x2040-3rrvcej8.png" alt="TypeScript" width="40"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1200px-Kotlin_Icon.svg.png" alt="Kotlin" width="40"/>
           </a> 
         </p>
       </details>
