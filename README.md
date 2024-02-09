@@ -1,8 +1,7 @@
-<!DOCTYPE HTML>
 <html>
   <body>
-    <div  padding="32px" margin="32px">
-    <table  border="3px" align="right">
+    <div>
+    <table align="right">
       <tr>
         <th>      
           <div>
@@ -40,10 +39,16 @@
           </a> 
           <br/><h3>Frontend:<h3>
           <a href="https://vitejs.dev/" target="blank">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png" alt="threejs" width="40"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png" alt="Vite" width="40"/>
           </a>
           <a href="https://webpack.js.org/" target="blank">
-            <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/webpack_plain_logo_icon_146297.png" alt="threejs" width="40"/>
+            <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/webpack_plain_logo_icon_146297.png" alt="Webpack" width="40"/>
+          </a>
+          <a href="https://nextjs.org/" target="blank">
+            <img src="https://static-00.iconduck.com/assets.00/next-js-icon-2048x2048-5dqjgeku.png" alt="React" width="40"/>
+          </a>
+          <a href="https://angular.io/" target="blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Angular_gradient.png" alt="React" width="40"/>
           </a>
           <a href="https://react.dev/" target="blank">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="40"/>
@@ -54,27 +59,27 @@
           <a href="https://reactrouter.com/" target="blank">
             <img src="https://www.svgrepo.com/show/354262/react-router.svg" alt="reactrouter" width="40"/>
           </a>
+          <a href="https://sass-lang.com" target="blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="SASS" width="40"/>
+          </a>
+          <a href="https://tailwindcss.com" target="blank">
+            <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png" alt="Tailwind" width="40"/>
+          </a>
           <a href="https://rxjs.dev" target="blank">
             <img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" alt="RxJS" width="40"/>
           </a>
           <a href="https://threejs.org" target="blank">
-            <img src="https://discourse.threejs.org/uploads/short-url/wFz74OtVJKHmXCI5F9qCe4VM1Gh.png?dl=1" alt="threejs" width="40"/>
-          </a>
-          <a href="https://sass-lang.com" target="blank">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="threejs" width="40"/>
-          </a>
-          <a href="https://tailwindcss.com" target="blank">
-            <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png" alt="threejs" width="40"/>
+            <img src="https://discourse.threejs.org/uploads/short-url/wFz74OtVJKHmXCI5F9qCe4VM1Gh.png?dl=1" alt="ThreeJS" width="40"/>
           </a>
           <br/><h3>Backend:<h3>
           <a href="https://www.docker.com/" target="blank">
-            <img src="https://static-00.iconduck.com/assets.00/docker-icon-icon-2048x1479-cres2he9.png" alt="socketIO" height="40"/>
+            <img src="https://static-00.iconduck.com/assets.00/docker-icon-icon-2048x1479-cres2he9.png" alt="Docker" height="35"/>
           </a>
           <a href="https://www.postgresql.org/" target="blank">
-            <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="socketIO" height="40"/>
+            <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" height="40"/>
           </a>
           <a href="https://www.mongodb.com/" target="blank">
-            <img src="https://static-00.iconduck.com/assets.00/mongodb-icon-2048x2048-cezvpn3f.png" alt="socketIO" height="40"/>
+            <img src="https://static-00.iconduck.com/assets.00/mongodb-icon-2048x2048-cezvpn3f.png" alt="SocketIO" height="40"/>
           </a>
           <a href="https://nestjs.com" target="blank">
             <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-2048x2040-3rrvcej8.png" alt="NestJS" width="40"/>
@@ -91,11 +96,14 @@
           <a href="https://socket.io" target="blank">
             <img src="https://socket.io/images/logo-dark.svg" alt="socketIO" width="40" height="40"/>
           </a>
+          <a href="https://graphql.org/" target="blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" alt="GraphQL" height="40"/>
+          </a>
           <a href="https://jestjs.io" target="blank">
-            <img src="https://cdn.iconscout.com/icon/free/png-256/free-jest-3629451-3031514.png" alt="socketIO" width="40" height="40"/>
+            <img src="https://cdn.iconscout.com/icon/free/png-256/free-jest-3629451-3031514.png" alt="Jest" width="40" height="40"/>
           </a>
           <a href="https://axios-http.com/" target="blank">
-            <img src="https://bestofjs.org/logos/axios.dark.svg" alt="socketIO" height="40"/>
+            <img src="https://bestofjs.org/logos/axios.dark.svg" alt="Axios" height="40"/>
           </a>
           <br/><br/><h3>Other:<h3>
           <a href="https://www.rust-lang.org" target="blank">
@@ -103,6 +111,12 @@
           </a> 
           <a href="https://kotlinlang.org" target="blank">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1200px-Kotlin_Icon.svg.png" alt="Kotlin" width="40"/>
+          </a>
+          <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="blank">
+            <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-sharp-programming-language-icon.png" alt="C#" height="40"/>
+          </a>
+          <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="blank">
+            <img src="https://www.svgrepo.com/show/303208/php-1-logo.svg" alt="PHP" height="40"/>
           </a> 
         </p>
       </details>
@@ -111,9 +125,9 @@
     <div>
       📫 Connect with me:<br/>
       <div>
-        <a href="https://t.me/diametrfq" target="blank"><img height="50px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"/></a>
-        <a href="https://linkedin.com/in/diametrfq" target="blank"><img height="50px" align="center" src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-net2o24e.png"/></a>
-        <a href="mailto:hohlov.03@inbox.ru" target="blank"><img height="50px" align="center"src="https://freeiconshop.com/wp-content/uploads/edd/email-flat.png"/></a>
+        <a href="https://t.me/diametrfq" target="blank"><img height="50px" align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram link"/></a>
+        <a href="https://linkedin.com/in/diametrfq" target="blank"><img height="50px" align="center" src="https://static-00.iconduck.com/assets.00/linkedin-icon-1024x1024-net2o24e.png" alt="LinkedIn link"/></a>
+        <a href="mailto:hohlov.03@inbox.ru" target="blank"><img height="50px" align="center" src="https://freeiconshop.com/wp-content/uploads/edd/email-flat.png" alt="email link"/></a>
       </div>
     </div>
   </body>
