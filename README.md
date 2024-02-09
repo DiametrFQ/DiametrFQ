@@ -39,6 +39,9 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/80px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="40"/>
           </a> 
           <br/><h3>Frontend:<h3>
+          <a href="https://vitejs.dev/" target="blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png" alt="threejs" width="40"/>
+          </a>
           <a href="https://webpack.js.org/" target="blank">
             <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/webpack_plain_logo_icon_146297.png" alt="threejs" width="40"/>
           </a>
@@ -64,6 +67,15 @@
             <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png" alt="threejs" width="40"/>
           </a>
           <br/><h3>Backend:<h3>
+          <a href="https://www.docker.com/" target="blank">
+            <img src="https://static-00.iconduck.com/assets.00/docker-icon-icon-2048x1479-cres2he9.png" alt="socketIO" height="40"/>
+          </a>
+          <a href="https://www.postgresql.org/" target="blank">
+            <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="socketIO" height="40"/>
+          </a>
+          <a href="https://www.mongodb.com/" target="blank">
+            <img src="https://static-00.iconduck.com/assets.00/mongodb-icon-2048x2048-cezvpn3f.png" alt="socketIO" height="40"/>
+          </a>
           <a href="https://nestjs.com" target="blank">
             <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-2048x2040-3rrvcej8.png" alt="NestJS" width="40"/>
           </a>
@@ -82,8 +94,8 @@
           <a href="https://jestjs.io" target="blank">
             <img src="https://cdn.iconscout.com/icon/free/png-256/free-jest-3629451-3031514.png" alt="socketIO" width="40" height="40"/>
           </a>
-          <a href="https://www.docker.com/" target="blank">
-            <img src="https://cdn.iconscout.com/icon/free/png-256/free-jest-3629451-3031514.png" alt="socketIO" width="40" height="40"/>
+          <a href="https://axios-http.com/" target="blank">
+            <img src="https://bestofjs.org/logos/axios.dark.svg" alt="socketIO" height="40"/>
           </a>
           <br/><br/><h3>Other:<h3>
           <a href="https://www.rust-lang.org" target="blank">
