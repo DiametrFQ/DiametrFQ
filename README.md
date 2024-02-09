@@ -2,7 +2,7 @@
 <html>
   <body>
     <div  padding="32px" margin="32px">
-    <table  border="5px" align="right">
+    <table  border="3px" align="right">
       <tr>
         <th>      
           <div>
@@ -39,6 +39,9 @@
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/80px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="40"/>
           </a> 
           <br/><h3>Frontend:<h3>
+          <a href="https://webpack.js.org/" target="blank">
+            <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/webpack_plain_logo_icon_146297.png" alt="threejs" width="40"/>
+          </a>
           <a href="https://react.dev/" target="blank">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="40"/>
           </a>
@@ -48,47 +51,51 @@
           <a href="https://reactrouter.com/" target="blank">
             <img src="https://www.svgrepo.com/show/354262/react-router.svg" alt="reactrouter" width="40"/>
           </a>
-          <a href="https://rxjs.dev/" target="blank">
+          <a href="https://rxjs.dev" target="blank">
             <img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" alt="RxJS" width="40"/>
           </a>
-          <a href="https://threejs.org/" target="blank">
+          <a href="https://threejs.org" target="blank">
             <img src="https://discourse.threejs.org/uploads/short-url/wFz74OtVJKHmXCI5F9qCe4VM1Gh.png?dl=1" alt="threejs" width="40"/>
+          </a>
+          <a href="https://sass-lang.com" target="blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="threejs" width="40"/>
+          </a>
+          <a href="https://tailwindcss.com" target="blank">
+            <img src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png" alt="threejs" width="40"/>
           </a>
           <br/><h3>Backend:<h3>
           <a href="https://nestjs.com" target="blank">
             <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-2048x2040-3rrvcej8.png" alt="NestJS" width="40"/>
           </a>
-          <a href="https://typeorm.io/" target="blank">
+          <a href="https://typeorm.io" target="blank">
             <img src="https://seeklogo.com/images/T/typeorm-logo-F243B34DEE-seeklogo.com.png" alt="TypeORM" width="40"/>
           </a> 
-          <a href="https://expressjs.com/ru/" target="blank">
+          <a href="https://expressjs.com" target="blank">
             <img src="https://w7.pngwing.com/pngs/925/447/png-transparent-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo.png" alt="Express" width="40"/>
           </a>
-          <a href="https://sequelize.org/" target="blank">
+          <a href="https://sequelize.org" target="blank">
             <img src="https://sequelize.org/img/logo.svg" alt="sequelize" width="40" height="40"/>
           </a> 
-          <a href="https://socket.io/" target="blank">
+          <a href="https://socket.io" target="blank">
             <img src="https://socket.io/images/logo-dark.svg" alt="socketIO" width="40" height="40"/>
-          </a> 
+          </a>
+          <a href="https://jestjs.io" target="blank">
+            <img src="https://cdn.iconscout.com/icon/free/png-256/free-jest-3629451-3031514.png" alt="socketIO" width="40" height="40"/>
+          </a>
+          <a href="https://www.docker.com/" target="blank">
+            <img src="https://cdn.iconscout.com/icon/free/png-256/free-jest-3629451-3031514.png" alt="socketIO" width="40" height="40"/>
+          </a>
           <br/><br/><h3>Other:<h3>
-          <a href="https://www.rust-lang.org/" target="blank">
+          <a href="https://www.rust-lang.org" target="blank">
             <img src="https://static-00.iconduck.com/assets.00/rust-icon-2048x2048-x341msji.png" alt="Rust" width="40"/>
           </a> 
-          <a href="https://kotlinlang.org/" target="blank">
+          <a href="https://kotlinlang.org" target="blank">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1200px-Kotlin_Icon.svg.png" alt="Kotlin" width="40"/>
           </a> 
         </p>
       </details>
     </div>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
+    <br/>
     <div>
       📫 Connect with me:<br/>
       <div>
