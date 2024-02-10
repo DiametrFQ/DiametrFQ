@@ -46,15 +46,6 @@
           <a href="https://vitejs.dev/" target="blank">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png" alt="Vite" width="40"/>
           </a>
-          <a href="https://webpack.js.org/" target="blank">
-            <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/webpack_plain_logo_icon_146297.png" alt="Webpack" width="40"/>
-          </a>
-          <a href="https://nextjs.org/" target="blank">
-            <img src="https://static-00.iconduck.com/assets.00/next-js-icon-2048x2048-5dqjgeku.png" alt="React" width="40"/>
-          </a>
-          <a href="https://angular.io/" target="blank">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Angular_gradient.png" alt="React" width="40"/>
-          </a>
           <a href="https://react.dev/" target="blank">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="40"/>
           </a>
@@ -97,18 +88,15 @@
           </a>
           <a href="https://sequelize.org" target="blank">
             <img src="https://sequelize.org/img/logo.svg" alt="sequelize" width="40" height="40"/>
-          </a> 
-          <a href="https://socket.io" target="blank">
-            <img src="https://socket.io/images/logo-dark.svg" alt="socketIO" width="40" height="40"/>
-          </a>
-          <a href="https://graphql.org/" target="blank">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" alt="GraphQL" height="40"/>
-          </a>
-          <a href="https://jestjs.io" target="blank">
-            <img src="https://cdn.iconscout.com/icon/free/png-256/free-jest-3629451-3031514.png" alt="Jest" width="40" height="40"/>
           </a>
           <a href="https://axios-http.com/" target="blank">
             <img src="https://bestofjs.org/logos/axios.dark.svg" alt="Axios" height="40"/>
+          </a>
+          <a href="https://socket.io" target="blank">
+            <img src="https://socket.io/images/logo-dark.svg" alt="socketIO" width="40" height="40"/>
+          </a>
+          <a href="https://jestjs.io" target="blank">
+            <img src="https://cdn.iconscout.com/icon/free/png-256/free-jest-3629451-3031514.png" alt="Jest" width="40" height="40"/>
           </a>
           <br/><br/><h3>Other:<h3>
           <a href="https://www.rust-lang.org" target="blank">
@@ -120,12 +108,12 @@
           <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="blank">
             <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/c-sharp-programming-language-icon.png" alt="C#" height="40"/>
           </a>
-          <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="blank">
-            <img src="https://www.svgrepo.com/show/303208/php-1-logo.svg" alt="PHP" height="40"/>
-          </a>
           <a href="https://www.python.org/" target="blank">
             <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-3521655-2945099.png" alt="Python" height="40"/>
           </a> 
+          <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="blank">
+            <img src="https://www.svgrepo.com/show/303208/php-1-logo.svg" alt="PHP" height="40"/>
+          </a>
         </p>
       </details>
     </div>
