@@ -122,6 +122,9 @@
           </a>
           <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="blank">
             <img src="https://www.svgrepo.com/show/303208/php-1-logo.svg" alt="PHP" height="40"/>
+          </a>
+          <a href="https://www.python.org/" target="blank">
+            <img src="https://cdn.iconscout.com/icon/free/png-256/free-python-3521655-2945099.png" alt="Python" height="40"/>
           </a> 
         </p>
       </details>
