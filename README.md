@@ -19,11 +19,16 @@
       <h4>
           I created website, mobile and desktop using <a href="https://nextjs.org/" target="blank">NextJS</a>, 
           <a href="https://reactnative.dev" target="blank">ReactNative</a>/Kotlin <br/>
-          and <a href="https://tauri.app" target="blank">Tauri</a> respectively. <a href="https://github.com/DiametrFQ/Full-haus"> Full house </a>
-      </h4> 
+          and <a href="https://tauri.app" target="blank">Tauri</a> respectively. <br/> 
+          <a href="https://github.com/DiametrFQ/Full-haus"> Full house </a>
+      </h4>
       <h4>
           I develop applications with complex functionality or interaction between the server and client parts. <br/>
-          I work on web applications using unique technologies such as <a href="https://threejs.org/" target="blank">ThreeJS</a>. For example, my mini project <a href="https://dddetris.vercel.app/" target="blank">DDDetris</a> <br/>
+          <a href="https://github.com/DiametrFQ/BarbershopAPI" target="blank">BarbershopAPI</a>
+      </h4>
+      <h4>
+          I work on web applications using unique technologies such as <a href="https://threejs.org/" target="blank">ThreeJS</a>. <br/> 
+          <a href="https://dddetris.vercel.app/" target="blank">DDDetris</a> <br/>
       </h4>
     </div>
     <div>
