@@ -15,14 +15,8 @@
     <div>
       <h3>Hi there 👋 </h3>
       <h4>
-          I have 3+ years of full-cycle development experience, from building databases to CI/CD.
+          I have 4+ years of full-cycle development experience, from building databases to CI/CD.
       </h4> 
-      <h4>
-          I created website, mobile and desktop using <a href="https://nextjs.org/" target="blank">NextJS</a>, 
-          <a href="https://reactnative.dev" target="blank">ReactNative</a>/Kotlin <br/>
-          and <a href="https://tauri.app" target="blank">Tauri</a> respectively. <br/> 
-          <a href="https://github.com/DiametrFQ/Full-haus"> Full house </a>
-      </h4>
       <h4>
           I develop applications with complex functionality or interaction between the server and client parts. <br/>
           <a href="https://github.com/DiametrFQ/BarbershopAPI" target="blank">BarbershopAPI</a>
