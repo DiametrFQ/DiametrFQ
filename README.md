@@ -37,6 +37,9 @@
           <a href="https://ru.wikipedia.org/wiki/JavaScript" target="blank">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/80px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" width="40"/>
           </a> 
+          <br/><h3>Architecture:<h3>
+          MV(C/P/VM),
+          <a href="https://feature-sliced.design/" target="blank"> FSD </a>
           <br/><h3>Frontend:<h3>
           <a href="https://ui.shadcn.com/" target="blank">
               <img src="https://mediaresource.sfo2.digitaloceanspaces.com/wp-content/uploads/2024/04/20161105/shadcn-ui-logo-EF735EC0E5-seeklogo.com.png" alt="shadcn" width="40"/>
@@ -46,6 +49,9 @@
           </a>
           <a href="https://vitejs.dev/" target="blank">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png" alt="Vite" width="40"/>
+          </a>
+          <a href="https://nextjs.org/" target="blank">
+            <img src="https://img.icons8.com/fluent-systems-filled/200/FFFFFF/nextjs.png" alt="NextJS" width="40"/>
           </a>
           <a href="https://react.dev/" target="blank">
             <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="React" width="40"/>
@@ -75,6 +81,9 @@
           <a href="https://www.docker.com/" target="blank">
             <img src="https://static-00.iconduck.com/assets.00/docker-icon-icon-2048x1479-cres2he9.png" alt="Docker" height="35"/>
           </a>
+          <a href="https://www.meilisearch.com/" target="blank">
+            <img src="https://cdn.intuji.com/2023/06/meilisearch-seeklogo.com_.svg" alt="Meilisearch" width="40" height="40"/>
+          </a>
           <a href="https://www.postgresql.org/" target="blank">
             <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" height="40"/>
           </a>
@@ -101,6 +110,28 @@
           </a>
           <a href="https://jestjs.io" target="blank">
             <img src="https://cdn.iconscout.com/icon/free/png-256/free-jest-3629451-3031514.png" alt="Jest" width="40" height="40"/>
+          </a>
+          <br/><h3>Other:<h3>
+          <a href="https://archlinux.org/" target="blank">
+            <img src="https://static-00.iconduck.com/assets.00/archlinux-icon-2048x2048-q7549ths.png" alt="Arch" height="35"/>
+          </a>
+          <a href="https://ubuntu.com/" target="blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1024px-Logo-ubuntu_cof-orange-hex.svg.png" alt="Ubuntu" height="35"/>
+          </a>
+          <a href="https://www.rust-lang.org/" target="blank">
+            <img src="https://rust-lang.org/logos/rust-logo-512x512.png" alt="Rust" height="35"/>
+          </a>
+          <a href="https://webassembly.org/" target="blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/WebAssembly_Logo.svg/1200px-WebAssembly_Logo.svg.png" alt="WASM" height="35"/>
+          </a>
+          <a href="https://v2.tauri.app/" target="blank">
+            <img src="https://cdn.worldvectorlogo.com/logos/tauri-1.svg" alt="Tauri" height="35"/>
+          </a>
+          <a href="https://diesel.rs/" target="blank">
+            <img src="https://avatars.githubusercontent.com/u/16763251?v=4" alt="Diesel" height="35"/>
+          </a>
+          <a href="https://dotnet.microsoft.com/" target="blank">
+            <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#" height="35"/>
           </a>
         </p>
       </details>
